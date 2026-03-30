@@ -2,7 +2,7 @@
 
 # ⚔️ KARNVEER ⚔️
 
-<i>Ghost of Sparta · Full Stack Developer</i>
+<i>Developer of India · Full Stack Developer</i>
 
 <br/>
 
@@ -83,11 +83,11 @@ Discipline over motivation. Consistency over excuses.
 
 <div align="center">
 
-<a href="#">
+<a href="https://thour-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/karanveer-thour">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
