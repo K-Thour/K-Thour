@@ -41,13 +41,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Karnveer-Thour&show_icons=true&theme=dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=K-Thour&show_icons=true&theme=dark&hide_border=true"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Karnveer-Thour&theme=dark&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Thour&theme=dark&hide_border=true"/>
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karnveer-Thour&layout=compact&theme=dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Thour&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
